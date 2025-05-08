@@ -1,5 +1,6 @@
 # miPrimerRepo
-ProbandoMiRepo
+
+Mi primer repositorio.yuju
 
 Mi primera contribucion local para github
 
